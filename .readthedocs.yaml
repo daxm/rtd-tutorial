@@ -4,7 +4,6 @@ build:
   os: "ubuntu-20.04"
   tools:
     python:
-      version: "3.11"
       install:
         - method: pip
           path: .
